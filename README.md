@@ -19,7 +19,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Juego
 
 **Logotipo** : 
-
+![girl](IMG_1550.png)
 
 
 **Resolución:** 1152x648px 
@@ -32,7 +32,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Fecha** : 28/05/2026
 
 
-![girl](IMG_1550.png)
+
 
 # 2. Memoria del proyecto 
 
