@@ -14,8 +14,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Marco Luque Gomez
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
-
 **Resumen** : Un simulador de apuestas de caballos, eliges el caballo que crees que va a ganar y ves como se desarrolla de manera aleatoria la carrera.
 
 **Estilo/género:**  Juego
