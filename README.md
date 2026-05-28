@@ -22,23 +22,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Resolución:** 800x600px 
+**Resolución:** 1152x648px 
 **Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 41MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
-
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
+**Fecha** : 28/05/2026
 
 
-![girl](WalkingGirl_front01.png)
+![girl](IMG_1550.png)
 
 # 2. Memoria del proyecto 
 
@@ -64,28 +58,22 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
 
 ## Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+Mi inpiración principal fue [horse racer test](https://acemyth.itch.io/horseracetests) y [Limbus Stable](https://x.com/CursedXWT/status/1939046888684016052). Se tratan de juegos en los que debes apostar por el caballlo que crees que ganara y ver como se desarrolla la carrera de manera aleatoria. Los diseños humanizados estn inspirados en el juego movil Uma Musume.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto creo que me representa muy bien, he caricaturizado a mis propias yeguas y como aficionado a las carreras de caballos y federado en equitación tenía claro que quería hacer algo relacionado con los caballos. Puede que no tenga mucho gameplay pero yo he pasado muy buenas tardes con mis amigos jugando al limbus stable con mis amigos y no sabiendo que va a pasar.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Es un juego personal para mi y mis amigos
 
 
 
@@ -93,25 +81,19 @@ Este  proyecto es interesante porque ...
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+El menu es bastante simple. El gameplay toma como base un estructura de pin pon haciendo que los sprites reboten en direcciones aleatorias con las propirdades físicas de la pared, haciendo asi que ganen aleatoriamente. El menu de selección activa una variabble global diferente cuando presionas a cada caballo. Si el caballo que gana tiene la variable de seleccionado activada aparece una pantalla de ganador. En el caso contrario una de perdedor.
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Hay veces que las carreras se alargan demasiado y creo que podria haber implementado dialogos o un sistema de dinero que vas ganando o perdiendo según quien gana.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Yo estoy bastante contento con mi juego porque siento que me representa personalmente. Pero me hubiera gustado humanizar a las lleguas y añadir un aspecto de novela visual entre carreras pero por falta de tiempo no se me ha hecho posible.
 
 
 
@@ -127,20 +109,15 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica:  Uma Musume
+* Imágenes:  Marco Luque Gomez
+* Tipografía: Google Fonts
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
-- 
+- Godot Engine 4.3
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
-
-* logos en https://creativecommons.org/mission/downloads/
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
